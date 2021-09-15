@@ -1,0 +1,28 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  background-color: white;
+  margin: 0 20px 10px 8px;
+  padding: 10px;
+}
+/* #999 */
+.info_container {
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+.info_sub {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex_end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.text_silver {
+  color: #999;
+}

@@ -1,0 +1,19 @@
+.profile {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile_fav {
+  margin-right: 15px;
+  color: #807f7f;
+}
+
+.profile_notif {
+  margin-right: 15px;
+  color: #807f7f;
+}
+
+.profile_acc {
+  margin-right: 5px;
+  color: #807f7f;
+}

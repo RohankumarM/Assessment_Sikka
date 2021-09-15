@@ -1,0 +1,41 @@
+.right_sub_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.right_sub_header_top {
+  display: flex;
+  margin-right: 10px;
+  align-items: center;
+  margin: 0 18px 8px 0;
+}
+
+.checked {
+  color: green;
+}
+
+.adjust_font_size {
+  font-size: 13px;
+}
+
+.subheader_filter {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 16px 0 0;
+}
+
+.time_range,
+.total_months,
+.starting_from {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.time_range div,
+.total_months div,
+.starting_from div {
+  margin-right: 10px;
+}

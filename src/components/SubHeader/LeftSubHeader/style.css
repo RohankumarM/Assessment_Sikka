@@ -1,0 +1,10 @@
+.left_sub_header {
+  display: flex;
+  align-items: center;
+}
+
+.practice_profile {
+  margin-left: 20px;
+  font-weight: 500;
+  font-size: 20px;
+}

@@ -1,0 +1,10 @@
+.filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter_desc {
+  margin-right: 10px;
+  font-weight: 500;
+}

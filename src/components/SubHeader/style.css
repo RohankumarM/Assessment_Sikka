@@ -1,0 +1,13 @@
+.subheader {
+  height: 100px;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu_icon {
+  color: rgb(70, 70, 250);
+  height: 60px;
+  width: 30px;
+  margin-left: 20px;
+}
